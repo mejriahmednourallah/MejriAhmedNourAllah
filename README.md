@@ -1,6 +1,6 @@
 # Hi, I'm **Ahmed Nour Allah Mejri** 👋  
 Full Stack Software Engineering Student | DevOps & AI Enthusiast | Tunisia 🇹🇳  
-[📧 mejriahmednourallah@gmail.com](mailto:mejriahmednourallah@gmail.com) | [GitHub](https://github.com/YOUR_GITHUB_USERNAME) | [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) | [Portfolio](https://profile-xp.vercel.app/)
+[📧 mejriahmednourallah@gmail.com](mailto:mejriahmednourallah@gmail.com) | [GitHub](https://github.com/mejriahmednourallah) | [LinkedIn](https://www.linkedin.com/in/ahmed-nour-allah-mejri-2b44832b3/) | [Portfolio](https://profile-xp.vercel.app/)
 
 ---
 
