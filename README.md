@@ -131,6 +131,6 @@ A: Because light attracts bugs! 🐛💡
 
 *Currently brewing coffee and deploying dreams* ☕💭
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mejriahmednourallah.mejriahmednourallah)](https://github.com/mejriahmednourallah)
 
 </div>
