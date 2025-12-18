@@ -107,7 +107,8 @@ skills = {
 
 ![Ahmed's GitHub Stats](https://github-readme-stats-two-beta-94.vercel.app/api?username=mejriahmednourallah&show_icons=true&theme=radical&count_private=true&include_all_commits=true&format=svg)
 
-![Top Languages](https://github-readme-stats-two-beta-94.vercel.app/api/top-langs/?username=mejriahmednourallah&layout=compact&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats-two-beta-94.vercel.app/api/top-langs/?username=mejriahmednourallah&layout=compact&theme=radical&count_private=true&format=svg)
+
 
 
 ---
